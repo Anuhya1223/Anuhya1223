@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi 👋, I'm Anuhya Chandaluru
 
-<!--
-**Anuhya1223/Anuhya1223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student
 
-Here are some ideas to get you started:
+💻 Passionate about Java, Python, and Web Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning Data Structures & Algorithms
+
+🚀 Projects:
+- Railway Reservation System (Java)
+- PCOD Detector (HTML, CSS, JavaScript)
+- YouTube Clone (HTML, CSS)
+
+🛠 Skills:
+- Java
+- Python
+- C
+- HTML
+- CSS
+- JavaScript
+
+📫 Connect with me:
+- LinkedIn: https://www.linkedin.com/in/anuhya-chandaluru
+- GitHub: https://github.com/Anuhya1223 
+
+ 
